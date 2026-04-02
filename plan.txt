@@ -1,0 +1,10 @@
+the plan of this project is to :
+1. make a very fast forward projection, like really fast
+2. re-implement the original backprojection , improve it and study the tradeoffs , basically a reasearch project about the backprojection algorithm
+
+goal is :
+sub ms forward for 256,256,32 image and 5000 canvas 
+23+ db backprojection algorithm only
+
+rg_to_hsi is done , simple method but I perfectly understand it
+pending: build_psf
